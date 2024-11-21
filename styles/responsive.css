@@ -75,7 +75,15 @@
   }
 
   .section {
-    padding: 4rem;
+    padding: 4rem 2rem;
+  }
+
+  footer {
+    padding: 4rem 2rem;
+  }
+
+  header {
+    padding: 1rem 2rem;
   }
 
   .logo-text {
