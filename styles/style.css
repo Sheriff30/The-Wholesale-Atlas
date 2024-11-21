@@ -444,15 +444,15 @@ nav a {
   font-size: 1.6rem;
   max-height: 0;
   overflow: hidden;
-  transition: max-height 0.9s ease;
+  transition: max-height 1.1s ease;
   padding-top: 1rem;
-  -webkit-transition: max-height 0.9s ease;
-  -moz-transition: max-height 0.9s ease;
-  -ms-transition: max-height 0.9s ease;
-  -o-transition: max-height 0.9s ease;
+  -webkit-transition: max-height 1.1s ease;
+  -moz-transition: max-height 1.1s ease;
+  -ms-transition: max-height 1.1s ease;
+  -o-transition: max-height 1.1s ease;
 }
 .answer.open {
-  max-height: 500px;
+  max-height: 300px;
 }
 
 .arrow-faq {
